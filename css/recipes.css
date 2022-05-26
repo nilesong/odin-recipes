@@ -1,0 +1,21 @@
+* {
+    font-family: "Tahoma", sans-serif;
+    background-color: aquamarine;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+h1 {
+    color: red;
+    font-size: 32px;
+    font-weight: bold;
+
+}
+
+h2 {
+    color: palevioletred;
+    font-weight: bold;
+}
